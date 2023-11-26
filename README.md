@@ -1,7 +1,5 @@
 # To-Do-App
  
-# To-Do-Application
-
 This is a simple Task Manager Web Application. It has two forms of authentication: user and admin. Users are able to create, update, and delete their own tasks, while the admin has access to all tasks and users.
 The technology used: React, Node.js, Express, MongoDB, React Router, Axios, JWT.
 
