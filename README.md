@@ -3,10 +3,10 @@
 This is a simple Task Manager Web Application. It has two forms of authentication: user and admin. Users are able to create, update, and delete their own tasks, while the admin has access to all tasks and users.
 The technology used: React, Node.js, Express, MongoDB, React Router, Axios, JWT.
 
-![Screenshot signup](https://github.com/Najadaa/To-Do-Application/assets/150595205/b498e247-923c-476a-812a-77960de41e74)
+![Screenshot signup](https://github.com/Najadaa/To-Do-App/assets/150595205/1ae72d99-5743-41b4-bb4d-3bac78e5e573)
 
-![Screenshot-login](https://github.com/Najadaa/To-Do-Application/assets/150595205/001e4e06-ecb3-4a27-afa7-8a5536fc4080)
+![Screenshot-login](https://github.com/Najadaa/To-Do-App/assets/150595205/80994b82-2bd6-454a-a7a1-66be81255846)
 
-![Screenshot userHome](https://github.com/Najadaa/To-Do-Application/assets/150595205/da95d92b-aa06-4fc9-ac49-d3d2bd69b50f)
+![Screenshot userHome](https://github.com/Najadaa/To-Do-App/assets/150595205/ad86e066-7726-4129-b62d-459f6c7ca8d2)
 
-![Screenshot adminDashboard](https://github.com/Najadaa/To-Do-Application/assets/150595205/597cf008-d004-4a7e-be54-6e42faf8649a)
+![Screenshot adminDashboard](https://github.com/Najadaa/To-Do-App/assets/150595205/df9efa48-b782-47d2-8b7c-f94091ac0f6c)
